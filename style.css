@@ -1,3 +1,8 @@
 h1 {
   background-color: red;
 }
+
+div {
+   word-wrap: break-word;
+   width: 600px;
+}
